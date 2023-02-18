@@ -1,2 +1,2 @@
-# basicProjects
-This repository contains basic personal projects, when they became more important I will create a unique repository for each one. 
+# Firsts JavaScript Projects for Portfolio
+During my initial studies in software development, I constructed four projects for my portfolio: "Random Wikipedia," "List of Games," and "CypherRiddle," and initiated the creation of a Lovecraft repository. These projects were rudimentary, serving as an opportunity to gain practical programming. However, the Lovecraft project proved to be more complex than anticipated, and I was unable to complete it. In the close future, I plan to revisit Lovecraft and create a more advanced project with refined concepts.
